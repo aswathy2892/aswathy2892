@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aswathy2892
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python Django
+- 🌱 I’m currently learning .Net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
