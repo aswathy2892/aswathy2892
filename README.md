@@ -33,9 +33,9 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswathy2892&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswathy2892&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy2892&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy2892&layout=compact&theme=github_dark)
 
 
 
