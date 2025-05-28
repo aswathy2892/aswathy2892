@@ -30,6 +30,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
+## 🌟 Featured Projects
+
+### [Job Portal Web API](https://github.com/aswathy2892/job-portal-webapi)  
+A robust backend API for managing jobs, users, and applications built with ASP.NET Core and Entity Framework.
+
+
 
 ### 📊 GitHub Stats
 
