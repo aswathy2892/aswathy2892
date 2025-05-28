@@ -34,7 +34,8 @@
 
 ### [Job Portal Web API](https://github.com/aswathy2892/job-portal-webapi)  
 A robust backend API for managing jobs, users, and applications built with ASP.NET Core and Entity Framework.
-
+### [Cozy Kettle](https://github.com/aswathy2892/cozy-kettle)  
+Cozy Kettle is a web app built with .NET 8 MVC that lets users browse coffee and refreshers and place orders with ease. This repository contains the code for the website, offering a seamless and cozy ordering experience straight to your doorstep.
 
 
 ### 📊 GitHub Stats
